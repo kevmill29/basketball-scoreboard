@@ -10,6 +10,7 @@ body {
     margin: 0;
     background-color: #1B244A;
     font-family: 'Cursed Timer ULiL', sans serif; 
+    caret-color: transparent;
 }
 
 h3 {
